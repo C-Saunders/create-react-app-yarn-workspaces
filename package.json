@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "cra_project",
+    "non_cra_project"
+  ]
+}
